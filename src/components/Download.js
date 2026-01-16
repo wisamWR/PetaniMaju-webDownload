@@ -23,14 +23,14 @@ export default function Download() {
             
             <div className="flex flex-col sm:flex-row gap-4 justify-center lg:justify-start">
               <a 
-                href="/app-release.apk" 
+                href="/petanimaju.apk" 
                 download
                 className="bg-white text-primary hover:bg-green-50 px-8 py-4 rounded-xl font-bold text-lg shadow-lg transition-all flex items-center justify-center gap-3"
               >
                 <DownloadIcon size={24} />
                 <div className="text-left">
                   <div className="text-xs font-normal">Download APK</div>
-                  <div className="leading-none">Versi 1.0.0</div>
+                  <div className="leading-none">Versi 1.1.0</div>
                 </div>
               </a>
             </div>

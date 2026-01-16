@@ -36,7 +36,7 @@ export default function Hero() {
             
             <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-4">
               <a 
-                href="/app-release.apk"
+                href="/petanimaju.apk"
                 download 
                 className="w-full sm:w-auto px-8 py-4 bg-primary hover:bg-green-800 text-white rounded-xl font-bold text-lg shadow-lg hover:shadow-xl transition-all flex items-center justify-center gap-2"
               >

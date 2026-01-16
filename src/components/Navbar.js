@@ -119,7 +119,7 @@ export default function Navbar() {
                 </Link>
               ))}
               <a
-                href="/app-release.apk"
+                href="/petanimaju.apk"
                 download
                 className="bg-primary text-white text-center py-3 rounded-lg font-semibold"
                 onClick={() => setIsMobileMenuOpen(false)}
